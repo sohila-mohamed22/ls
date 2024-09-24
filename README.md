@@ -38,7 +38,7 @@ To install and use this custom `ls` command:
    ```bash
    git clone https://github.com/yourusername/custom-ls.git
    cd custom
-  ```
+   ```
 2. Compile the project (if using a compiled language like C):
    ```bash
    gcc myls.c ls_Functions.c -o myls
