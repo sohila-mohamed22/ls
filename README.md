@@ -97,7 +97,7 @@ When listing directories, the output is organized into a table format to enhance
 
 For a detailed walkthrough of the `ls` command implementation and its options, you can watch the video below:
 
-[![Custom ls Command Explanation](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+https://drive.google.com/file/d/10CIcQ_RiDGxQ_Tl_Qvq3J5coAFB4mZva/view?usp=sharing
 
 In this video, we cover:
 - How to install and use the custom `ls` command.
