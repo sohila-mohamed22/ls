@@ -36,7 +36,7 @@ To install and use this custom `ls` command:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/custom-ls.git
+   git clone https://github.com/sohila-mohamed22/ls
    cd custom
    ```
 2. Compile the project (if using a compiled language like C):
