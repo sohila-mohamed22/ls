@@ -46,7 +46,7 @@ To install and use this custom `ls` command:
 3. Run the command:
    ```bash
    ./myls [OPTIONS] [DIRECTORY...]
-  ```
+   ```
 
 ## Examples
 
